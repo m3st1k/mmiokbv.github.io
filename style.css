@@ -1,15 +1,15 @@
 body{
-  text-align : center;
-	background-color: #BBCFE0;
-	min-width : 770px ;
+text-align : center;
+background-color: #BBCFE0;
+min-width : 770px ;
 }
 
 #navinner {
-	float: left;
-	width: 745px;
-	height: 41px;
-	margin-left: -1px;
-	background: #7590A3;
-	border-top: 2px solid #617A8C;
-	border-bottom: 2px solid #617A8C;
-	}
+float: left;
+width: 745px;
+height: 41px;
+margin-left: -1px;
+background: #7590A3;
+border-top: 2px solid #617A8C;
+border-bottom: 2px solid #617A8C;
+}
